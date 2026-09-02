@@ -53,7 +53,7 @@ disappears once the actual benefit is stated.
 ## Install
 
 ```sh
-npx skills add dwmkerr/editor
+npx skills add michellexyq/editor
 ```
 
 ## Try it out
